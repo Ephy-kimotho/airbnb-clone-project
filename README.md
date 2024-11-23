@@ -42,3 +42,11 @@ The following are the people required to make this project a success:
 - **Quality Assurance Tester**: To ensure that the web app is reliable and free of bugs before release.
 - **DevOps Engineer**: To deploy the web app and monitor tha web app's performance and up-time.
 - **Product Owner**: To define the vision for the product and ensure it meets the requirements.
+
+## UI Component Patterns
+The following list shows the components to be used:
+- **Header**: includes the search bar  and authentication buttons.
+- **PropertyCard**: shows an individual home.
+- **ReservationForm**: form to reserve a home.
+- **ReviewCard**: card that shows reviews about a home.
+- **Footer**: inludes company info and help links.
